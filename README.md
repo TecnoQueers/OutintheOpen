@@ -1,2 +1,2 @@
 # OutintheOpen
-Open leadershio and collective intelligence to defend LGBTQI+ rights in the digital environment
+Open leadership and collective intelligence to defend LGBTQI+ rights in the digital environment
