@@ -23,7 +23,7 @@ The lack of resources to develop data and systematization mechanisms, as well as
 
 Collective intelligence can strengthen the capacity to generate evidence-informed strategies based on machine learning supported human rights documentation and analysis of evidence to influence policies and practices that advance LGBTQI+ rights in the digital environment.
 
-### What we do?
+## What we do?
 
  Out in the Open! will tap into the potential of collective intelligence to solve the most pressing issues faced by  LGBTQI+ populations in the digital environment.
 
@@ -31,7 +31,7 @@ Open leadership, collective problem solving, and greater participation of commun
 
  Your contribution is crucial to Out in the Open! success. Your vision is needed to connect the dots between a broad range of innovation tools and elements that unleash the potential of the collective intelligence elements we aim to experiment with.
 
-### Who are we?
+## Who are we?
 
 The co-founders of  Out in the Open! are LGBTQI+ and digital rights activists working in the frontlines to defend human rights in the digital environment.
 
