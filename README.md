@@ -1,7 +1,7 @@
 # OutintheOpen
-Open leadership and collective intelligence to defend LGBTQI+ rights in the digital environment
+***Open leadership and collective intelligence to defend LGBTQI+ rights in the digital environment***
 
-WELCOME,
+## WELCOME
 
 Thank you for your interest on Out in the Open!
 
@@ -9,9 +9,9 @@ Your contribution and engagement helps us to create a healthier internet for LGB
 
 This READme file has been created to welcome you and help you navigate the Out in the Open! project as well as sharing more details about our objectives and how we intend to make impact.
 
- Out in the Open!
+ ### Out in the Open!
 
-The Context / The Problem
+## The Context / The Problem
 
  LGBTQI+ populations are battling a growing conservative wave that is threatening to roll back the rights and freedom of their communities; at the same time, technology and innovation are advancing at a speed that makes it hard for human rights organizations to keep up with. These challenges combined make it more important than ever to forge collaborative networks that share knowledge, advance common understanding, and foster the collective leadership of civil society organizations to respond to emerging threats. 
  
@@ -23,7 +23,7 @@ The lack of resources to develop data and systematization mechanisms, as well as
 
 Collective intelligence can strengthen the capacity to generate evidence-informed strategies based on machine learning supported human rights documentation and analysis of evidence to influence policies and practices that advance LGBTQI+ rights in the digital environment.
 
-The Solution
+### What we do?
 
  Out in the Open! will tap into the potential of collective intelligence to solve the most pressing issues faced by  LGBTQI+ populations in the digital environment.
 
@@ -31,7 +31,7 @@ Open leadership, collective problem solving, and greater participation of commun
 
  Your contribution is crucial to Out in the Open! success. Your vision is needed to connect the dots between a broad range of innovation tools and elements that unleash the potential of the collective intelligence elements we aim to experiment with.
 
-Who are we?
+### Who are we?
 
 The co-founders of  Out in the Open! are LGBTQI+ and digital rights activists working in the frontlines to defend human rights in the digital environment.
 
