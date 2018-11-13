@@ -12,8 +12,8 @@ This READme file has been created to welcome you and help you navigate the Out i
 * [The Context - Why we created Out in the Open!?](#The-Context)
 * [what are we doing?](#what-are-we-doing)
 * [Who are we?](#who-are-we)
-* [How to get involved?] (#how-to-get-involved)
-* [Get in contact] (#get-in-contact)
+* [How to get involved?](#how-to-get-involved)
+* [Get in contact](#get-in-contact)
 
  ### Out in the Open!
 
