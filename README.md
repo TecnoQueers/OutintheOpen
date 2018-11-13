@@ -9,6 +9,10 @@ Your contribution and engagement helps us to create a healthier internet for LGB
 
 This READme file has been created to welcome you and help you navigate the Out in the Open! project as well as sharing more details about our objectives and how we intend to make impact.
 
+* [The Context - Why we created Out in the Open!?](#The-Context)
+* [what are we doing?](#what-are-we-doing)
+* [Who are we?](#who-are-we)
+
  ### Out in the Open!
 
 ## The Context / The Problem
@@ -23,7 +27,7 @@ The lack of resources to develop data and systematization mechanisms, as well as
 
 Collective intelligence can strengthen the capacity to generate evidence-informed strategies based on machine learning supported human rights documentation and analysis of evidence to influence policies and practices that advance LGBTQI+ rights in the digital environment.
 
-## What we do?
+## What are we doing?
 
  Out in the Open! will tap into the potential of collective intelligence to solve the most pressing issues faced by  LGBTQI+ populations in the digital environment.
 
