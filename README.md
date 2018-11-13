@@ -48,9 +48,10 @@ Pablo Aguilera & Agneris Sampieri
 
 ## Get in contact
 
-
+you can contact us at: [pablo@r3d.mx][link_contact]
 
 
 
 
 [link_collectivesolving]: https://www.researchgate.net/publication/321533684_Broad_Participation_in_Collective_Problem_Solving_Can_Influence_Participants_and_Lead_to_Better_Solutions_Evidence_from_the_MIT_Climate_CoLab
+[link_contact]: emailto: pablo@r3d.mx
