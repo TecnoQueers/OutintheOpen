@@ -41,7 +41,7 @@ Open leadership, collective problem solving, and greater participation of commun
 
 The co-founders of  Out in the Open! are LGBTQI+ and digital rights activists working in the frontlines to defend human rights in the digital environment.
 
-Pablo Aguilera @tecnoqueers & Agneris Sampieri 
+Pablo Aguilera & Agneris Sampieri 
 
 ## How to get involved?
 
